@@ -1,2 +1,3 @@
 # Navigation-ViewBinding
-Some works with fragments ans using ViewBinding in activities and fragments.
+Some works with fragments;
+Using ViewBinding in activities and fragments;
